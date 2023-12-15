@@ -119,4 +119,41 @@ a {
 
 .third-section-container q {
     font-weight: bolder;
+} 
+
+
+
+.footer {
+    
+    color: #f9faf8;
+}
+
+.footer-container {
+    display: flex;
+    justify-content: space-around;
+    height: 10rem;
+    align-items: center;
+    background-color: #3881f6;
+    margin: 4rem 2rem;
+}
+
+.footer-btn {
+    border: 0.2rem solid #f9faf8;
+    background-color: transparent;
+    padding: 0.6rem;
+    border-radius: 5px;
+}
+
+.footer-btn a {
+    color: #f9faf8;
+   font-weight: bold; 
+}
+
+.footer-bottom {
+    display: flex;
+    background-color: #1f2937;
+    justify-content: center;
+    height: 4rem;
+    align-items: center;
+    
 }
