@@ -92,6 +92,11 @@ a {
     justify-content: space-around;
 }
 
+.second-section-container-small img {
+    width: 12rem;
+    height: auto;
+}
+
 .second-section-container-small {
     width: 12rem;
     height: auto;
@@ -101,4 +106,17 @@ a {
     font-style: italic;
     text-align: center;
     padding-top: 1rem;
+}
+
+.third-section-container {
+    padding: 5rem 20rem;
+    background-color: #e5e7eb;
+}
+
+.third-section-container P {
+    line-height: 2rem;
+}
+
+.third-section-container q {
+    font-weight: bolder;
 }
