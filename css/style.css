@@ -70,3 +70,35 @@ a {
 .header-btn a {
     color: #f9faf8;
 }
+
+.second-section-container-small img {
+    width: 12rem;
+    height: auto;
+}
+
+.second-section-container-big {
+    padding: 3rem 5rem;
+    background-color: #f9faf8;
+    color: #1f2937;
+}
+
+.second-section-container-big h2 {
+    text-align: center;
+    padding-bottom: 2rem;
+}
+
+.second-section-container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.second-section-container-small {
+    width: 12rem;
+    height: auto;
+}
+
+.second-section-container-small p {
+    font-style: italic;
+    text-align: center;
+    padding-top: 1rem;
+}
